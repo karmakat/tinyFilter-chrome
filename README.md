@@ -15,7 +15,7 @@ I just got tired of closing lots of blocked tabs all day so I've added:
 
 -----------------------------------------------------------------------------------------------------------------------
 
-The redirect lets you close immediately if you want, or to stop the countdown and close. 
+The redirect lets you close immediately if you want, or to stop the countdown along with the auto-close. 
 
 If you want to change the time after which the tab/window closes, change this line:
 
