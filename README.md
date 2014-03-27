@@ -5,7 +5,7 @@ A content filter for Google Chrome.
 (redirect to local html file to Autoclose blocked site windows or tabs after 10 seconds)
 -----------------------------------------------------------------------------------------------------------------------
 NOTE:
-No difference to Hunter Paolini's script!
+No difference from Hunter Paolini's script!
 
 (ADDED killit.html)
 
