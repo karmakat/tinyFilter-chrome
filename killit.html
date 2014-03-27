@@ -82,13 +82,13 @@
         clearInterval(id);
     }
     var counterButton = document.getElementById("countdown");
-   ch
+    var counter = 10;
     var newElement = document.createElement("p");
     newElement.innerHTML = "Closing tab in 10 seconds.";
     var id;
 
     counterButton.parentNode.replaceChild(newElement, counterButton);
-
+	
     id = setInterval(function () {
         counter--;
         if (counter < 0) {
