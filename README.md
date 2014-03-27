@@ -33,3 +33,6 @@ example: C:/GUI/killit.html
 example: file:///C:/GUI/killit.html
 
 That's it!
+
+- Aleks Berland 
+http://karmakat.ca
