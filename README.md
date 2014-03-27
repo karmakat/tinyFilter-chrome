@@ -24,15 +24,16 @@ var counter = 10;
 -----------------------------------------------------------------------------------------------------------------------
 INSTALLATION:
 
-1. Place the 'killit.html' somewhere on your computer.
+1) Place the 'killit.html' somewhere on your computer.
 
 example: C:/GUI/killit.html  
 
-2. Go to tinyFilter's options >> CONTENT FILTER >> ADVANCED SETTINGS and put the file url in the field >> Redirect blocked pages to:
+
+2) Go to tinyFilter's options >> CONTENT FILTER >> ADVANCED SETTINGS and put the file url in the field >> Redirect blocked pages to:
 
 example: file:///C:/GUI/killit.html
 
-3.(optional maybe) (WINDOWS only) If the script does not work or chrome asks permission to use javascript locally, try locating the file, and giving all permissions to user group EVERYONE in the security tab. Don't worry, this script is 100% safe and simple.
+3) ( optional maybe- WINDOWS only ) - If the script does not work or chrome asks permission to use javascript locally, try locating the file, and giving all permissions to user group EVERYONE in the security tab. Don't worry, this script is 100% safe and simple.
 
 That's it!
 
